@@ -20,12 +20,8 @@ body {
   margin-bottom: 50px;
 }
 
-<<<<<<< HEAD
-#wordle-container {
-=======
 #container {
->>>>>>> 7b9841eac8e4ddbd5cf8ed892b0e00b89f240ba9
-  padding: 4px;
+  padding: 8px;
 }
 
 .heading {
@@ -37,7 +33,7 @@ body {
 
 h1 {
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
 h1,
