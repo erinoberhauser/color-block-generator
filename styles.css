@@ -20,7 +20,11 @@ body {
   margin-bottom: 50px;
 }
 
+<<<<<<< HEAD
 #wordle-container {
+=======
+#container {
+>>>>>>> 7b9841eac8e4ddbd5cf8ed892b0e00b89f240ba9
   padding: 4px;
 }
 
